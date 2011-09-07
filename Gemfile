@@ -9,6 +9,8 @@ gem 'sqlite3'
 gem 'apn_sender', :require => 'apn'
 gem 'daemons'
 
+gem 'rapns'
+
 # Use unicorn as the web server
 # gem 'unicorn'
 
